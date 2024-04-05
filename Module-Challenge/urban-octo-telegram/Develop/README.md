@@ -29,7 +29,7 @@ User should be able to
 
 ### Links
  Solution URL: 
- LIve Site URL:
+ LIve Site URL: 
 
 ## Progress
 
@@ -37,11 +37,12 @@ User should be able to
  CSS
  Semenatic HTML
 
-
-
 ### Conclusion
  Try to use class to reduce the same commands in css
  It is better to build HTML with semantic elements to provide a better reading experience
  Add the id attribute to the headings that needs to be navigated
  Unique title is needed
  Lastly, image elements need to have the alt attributes to add the additional information in html
+
+
+ ## Author [github](https://github.com/kk6625)
